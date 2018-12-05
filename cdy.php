@@ -35,3 +35,4 @@ $status = $status[1][0];
 $programName = $programName[1][0];
 
 echo "<center>$status - <a href=https://e.gift.id/u/".$code.">$code</a> - $programName [c0dayTeam]</center>";
+<?
